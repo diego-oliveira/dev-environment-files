@@ -1,0 +1,30 @@
+[
+  {
+    "bindings": {
+      "ctrl-p": "file_finder::Toggle"
+    }
+  },
+  {
+    "context": "Editor",
+    "bindings": {
+      "g f": "editor::GoToDefinition"
+    }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "ctrl-p": "file_finder::Toggle"
+    }
+  },
+  {
+    "bindings": {
+      // "ctrl-r": "editor::CopyRelativePath"
+    }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "cmd-t": "workspace::NewTerminal"
+    }
+  }
+]
