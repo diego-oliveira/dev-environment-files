@@ -1,0 +1,12 @@
+color = ''
+project-name = 'default'
+[default]
+account_id = 'acct_1Q80iMRwCCmCV0ZO'
+device_name = 'Diegos-MacBook-Pro.local'
+live_mode_api_key = 'rk_live_***********************************************************************************************UMwe'
+live_mode_key_expires_at = '2025-01-07'
+live_mode_pub_key = 'pk_live_51Q80iMRwCCmCV0ZOCRQL3nDeD9rplbNU1pGEhP4dYD52CswnxlGh7VNNbsCyJ5dTaNvGTNPLRXk4uYk82KMupItI005rDePm0z'
+test_mode_api_key = 'rk_test_51Q80iMRwCCmCV0ZO7J7aZgz3atWsXhXo4rsWOTqyummB8ZY31V3IXtvepaWfwy3jx66ZlvYeRrJoYP7exgkX0cE000J8M8eY9z'
+test_mode_key_expires_at = '2025-01-07'
+test_mode_pub_key = 'pk_test_51Q80iMRwCCmCV0ZObkrWbgu8V7lOoqmPgEjwJzUw4xg7CrEKayfj5G2Pvpl3fOTEXIaicj7OrYgTy6drQmOG9rwk00HYZDdu27'
+
